@@ -12,11 +12,11 @@ My name is Lee Bryan from class 1A I am a student of Dunman High School. Current
 <br>
 <p>Here are the things I love to do the most : </p> 
 <ul>
-<li>playing thomas and friends toysdhsleebryan.github.io
+<li>playing thomas and friends toys
  <img src="https://vignette.wikia.nocookie.net/starwars/images/2/2c/Vebb_Grievous_Fisto.jpg/revision/latest/scale-to-width-down/322?cb=20120924013414"/>
 <li>watching star wars</li>
 <li>doing math and science work</li>
-</ul>
-</body>
-</html>
+
+
+
 
